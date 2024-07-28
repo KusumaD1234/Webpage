@@ -1,0 +1,220 @@
+/* *{
+    color: rgb(109, 8, 67);
+}*/
+body{
+    position: static;
+     background-image: url(ba.jpg) ;
+    background-repeat: no-repeat;
+   background-attachment: fixed; 
+   background-size: cover; 
+   margin: 0;
+   
+}
+body{
+  
+   
+    background-color: white;
+     margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 300;
+    color: rgb(109, 8, 67);
+}
+.log{
+    margin: 50px;
+   
+}
+/* .small{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width:40%
+}  */
+h2{
+    text-decoration: underline;
+    color: rgb(253, 149, 14);
+}
+footer{
+    
+    height: 100%;
+    width: 100%;
+    
+    background-color: rgba(254, 210, 210, 0.968);
+    
+    padding:0%;
+    color:rgb(9, 70, 73);
+}
+#none{
+    height: 250px;
+    width: 300px;
+    border: 2px solid rgba(255, 255, 255,0.5);  
+    border-radius: 5px;
+    margin:20px 450px 20px 350px;
+    padding: 20px;
+    background-color: rgba(254, 254, 254,0.7);
+
+}
+em{
+    padding: 30px;
+}
+.nam{
+    height: 35px;
+    margin: 10px 30px 20px 55px;
+    border: none;
+    border-radius: 8px;
+    background-color: antiquewhite;
+
+}
+#sub{
+    margin-left: 115px;
+    background: rgb(196, 235, 249);
+    color:black;
+    border: none;
+    width: 80px;
+    height: 30px;
+
+}
+article{
+    color:black;
+    font-size: x-large;
+    text-align: center;
+    
+}
+mark{
+    background: rgb(207, 207, 232);
+}
+.feed{
+    position:sticky;
+    top:0;
+    right: auto;
+    
+}
+#hh{
+    position: sticky;
+    top: 0;
+    text-align: center;
+    font-style: italic;
+    background-color: rgb(231, 192, 101);
+}
+.lab{
+    position: relative;
+    margin-bottom: 40%;
+    background-color: beige;
+    margin-bottom: 650px;
+}
+#lap{
+    position: absolute;
+    top: 30px;
+    right: 200px;
+    height: 300px;
+    align-items: center;
+    left:280px;
+    
+}
+#code{
+    position: absolute;
+    top: 350px;
+    left: 500px;
+    right:400px;
+    bottom: 00px;
+    width: 300px;
+}
+#system{
+    position: absolute;
+    left:180px;
+    top:350px;
+    height: 225px;
+    right:100px;
+    width:300px;
+}
+video{
+    height: 300px;
+    width: 500px;
+    left:300px;
+    margin: 0 300px 0 300px;
+}
+.mess{
+    margin: 20px;
+}
+.mat{
+    position: relative;
+    margin-bottom: 350px;
+}
+.small{
+    position: absolute;
+    left:650px;
+}
+.mac{
+    position: absolute;
+    font-size: large;
+    right: 350px;
+}
+#im{
+    padding-right: 10px;
+    border-radius: 50%;
+}
+.mos{
+    position:relative;
+    margin-bottom: 350px;
+}
+.larg{
+    position: absolute;
+    left: 0;
+}
+.cas{
+    position: absolute;
+    left: 400px;
+align-items: center;
+    font-size: large;
+}
+.mes{
+    position: relative;
+    margin-bottom: 350px;
+}
+.mul{
+    position: relative;
+    margin-bottom: 400px;
+}
+.sos{
+    position: relative;
+    margin-bottom: 350px;
+
+}
+.spa{
+    position: relative;
+    margin-bottom: 350px;
+}
+.mem{
+    position: absolute;
+    right: 350px;
+}
+.solve{
+    position: relative;
+    /* padding-bottom: 1px; */
+}
+.mess{
+    position: absolute;
+    left: 10px;
+    padding-left: 0;
+}
+.mosh{
+    position: absolute;
+    right: 200px;
+}
+#m{
+    text-align: center;
+}
+#dom{
+    padding-bottom: 400px;
+}
+/* .cat{
+    position: relative;
+   
+}
+#Pi{
+    position: absolute;
+   margin-right: 100px;
+}
+#em.{
+    position: absolute;
+    margin-right: 200px;
+} */
